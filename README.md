@@ -1,6 +1,6 @@
 # Central bank of Nigeria
 # Federal government of Nigeria 2023 updated monetary policy
-
+#Under the leadership of President Mohammadu Buhari
 
 # Sub-header
 <h2> Daily withrawal and deposits for both private and enterprise </h2>
