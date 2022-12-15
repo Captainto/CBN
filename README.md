@@ -1,9 +1,9 @@
 # Central bank of Nigeria
 # Federal government of Nigeria 2023 updated monetary policy
 
-# Header
-# Under the leadership of President Mohammadu Buhari
-# CBN GOVERNOR -  Godwin Emiefele
+
+#Under the leadership of President Mohammadu Buhari
+#CBN GOVERNOR -  Godwin Emiefele
 
 # Sub-header
 <h2> Daily withrawal and deposits for both private and enterprise </h2>
